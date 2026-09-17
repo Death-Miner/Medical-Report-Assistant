@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+pytesseract
+pillow
+opencv-python
+pandas
+google-genai
+python-dotenv
